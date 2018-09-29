@@ -21,6 +21,10 @@ body {
     padding-right: 0;
 }
 
+.fishka-size {
+    max-width: 100%;
+}
+
 .dkp {
     text-align: right;
 }
