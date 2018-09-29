@@ -1,0 +1,26 @@
+body {
+    background-color: #4A4F53;
+}
+
+.h-color {
+    background-color: #ffffff;
+    text-align: center;
+/*    color: #838B92;*/
+}
+
+.p-color-1 {
+    background-color: #FFFF00;
+}
+
+.p-color-2 {
+    background-color: #a9b2ba;
+}
+
+.fishka-img {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.dkp {
+    text-align: right;
+}
