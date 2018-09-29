@@ -27,3 +27,9 @@ body {
 .dkp {
     text-align: right;
 }
+
+@media (max-width: 445px) {
+    h2 {
+        font-size: 1.3rem;
+    }
+}
