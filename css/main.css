@@ -1,3 +1,9 @@
+@media (max-width: 445px) {
+    h2 {
+        font-size: 1.3rem;
+    }
+}
+
 body {
     background-color: #4A4F53;
 }
@@ -24,12 +30,6 @@ body {
     max-width: 100%;
 }
 
-.dkp {
+.dkp, .p-right {
     text-align: right;
-}
-
-@media (max-width: 445px) {
-    h2 {
-        font-size: 1.3rem;
-    }
 }
